@@ -1,0 +1,9 @@
+{
+	"name": "Gyani-DataFactory-17May25",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fe9c9f3-9c66-475b-abbe-c0c6e7efa0a4",
+		"tenantId": "310d4aba-3548-4525-9ea7-fb50f9d327ef"
+	}
+}
